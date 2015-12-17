@@ -7,7 +7,7 @@
  ![微信扫一扫关注](http://7xp3fo.com1.z0.glb.clouddn.com/yufe2015/h5.vc.jpg)  
  或`Watch`这个项目接收新职位通知 
  
- ####Bei Jing
+##Bei Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人 
 :------------- | :------------- | :-------------  | :-------------
-孔明科技 | [前端工程师](./北京--JD/孔明科技 前端.md) | React，Redux，Webpack，ES6，新技术新项目 | [youhua@kongming-inc.com](mailto:youhua@kongming-inc.com "有效期至 2016-02-06")
+孔明科技 | [前端工程师](./北京--JD/孔明科技前端.md) | React，Redux，Webpack，ES6，新技术新项目 | [youhua@kongming-inc.com](mailto:youhua@kongming-inc.com "有效期至 2016-02-06")
