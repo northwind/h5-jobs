@@ -1,4 +1,4 @@
-# 开源免费的工程师自助前端招聘
+# 开源免费的前端工程师自助招聘
 让我们用工程师的方式来招聘靠谱工程师吧。
 
 **招聘者：** 欢迎 [添加职位](https://github.com/h5vc/h5-jobs/wiki/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%81%8C%E4%BD%8D%E5%8F%8A%E5%86%85%E5%AE%B9%E8%A7%84%E8%8C%83 "查看职位添加步骤和规范")  
@@ -11,4 +11,4 @@
 
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-孔明科技 | [前端工程师](./北京--JD/孔明科技前端.md) | React，Redux，Webpack，ES6，新技术新项目 | [youhua@kongming-inc.com](mailto:youhua@kongming-inc.com "有效期至 2016-02-06")
+孔明科技 | [前端工程师](./北京/孔明科技招聘前端.md) | React，Redux，Webpack，ES6，新技术新项目 | [youhua@kongming-inc.com](mailto:youhua@kongming-inc.com "有效期至 2016-02-06")
