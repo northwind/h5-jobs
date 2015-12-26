@@ -13,3 +13,4 @@
 :------------- | :------------- | :-------------  | :-------------
 孔明科技 | [前端工程师](./北京/孔明科技招聘前端.md) | React，Redux，Webpack，ES6，新技术新项目 | [youhua@kongming-inc.com](mailto:youhua@kongming-inc.com "有效期至 2016-02-06")
 道达天际 | [前端工程师](./北京/道达天际前端招聘.md) | 军口软件，创业型公司 | [zhouyizhe@doubleskyline.com](mailto:zhouyizhe@doubleskyline.com "有效期至 2016-06-01")
+GrowingIO | [前端工程师](./北京/GrowingIO招聘.md) | 在这里，前端没有天花板 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2016-03-01")
